@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @chrisdeuce a QA practitioner that ususally works on Test automation
-- 👀 I’m interested in test automation framewroks and AI 
-- 🌱 I’m currently learning Cypress and Python
-- 💞️ I’m looking to collaborate on building a tools for test automation
+- 👋 Hi, I’m @chrisdeuce an IT practitioner that ususally works on Test automation however, lately I've lean in operations and infraestructure
+- 👀 I’m interested in test automation frameworks, Devops, BPM's and stuff related 
+- 🌱 I’m currently learning Github actions and Lambda functions
+- 💞️ I’m looking to collaborate on building a tools for process/test automation
 - 📫 How to reach me ...
 
 <!---
